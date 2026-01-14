@@ -2,7 +2,7 @@
 .main{
     background-color: rgb(62, 59, 7);
     color: beige;
-    padding: 10px;
+    padding-left: 30px;
 }
 .header{
     background-color:ghostwhite;
@@ -13,7 +13,11 @@
 }
 .footer{
     background-color:rgb(181, 179, 134);
-    justify-content: center;
+    padding:5px;
+    border-style:groove;
+    border-width: 5px;
+    border-color: rgb(11, 78, 81);
+    text-align: center;
 }
 h1{
     font-family:"Ewert", serif;
