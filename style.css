@@ -3,12 +3,13 @@
     background-color: rgb(62, 59, 7);
     color: beige;
     padding-left: 30px;
+    margin:auto;
 }
 .header{
     background-color:ghostwhite;
     padding:20px;
 }
-.section{
+#section{
     color: rgb(249, 187, 207);
 }
 .footer{
@@ -18,6 +19,7 @@
     border-width: 5px;
     border-color: rgb(11, 78, 81);
     text-align: center;
+    margin:left;
 }
 h1{
     font-family:"Ewert", serif;
