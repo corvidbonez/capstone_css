@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&family=Ruslan+Display&display=swap');
+body{
+    background-color: rgb(20, 5, 21);
+    padding-left:30px;
+}
+.heading{
+    font-family:"Pirata One", system-ui;
+    color: honeydew;
+    text-align: center;
+    border-color: cornsilk;
+    border: 2px dotted;
+    margin-bottom: 30px;
+}
+.pfp{
+    float:left;
+    margin:20px;
+    border-radius:20%;
+    border: 30px dashed rgb(189, 96, 19);
+}
+img{
+    border-radius:10%;
+}
+.subheading{
+    color: azure;
+    font-style: italic;
+
+    h3{
+        font-family: "Ruslan Display", sans-serif;
+        color: antiquewhite;
+    }
+}
