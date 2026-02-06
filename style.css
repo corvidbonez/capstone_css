@@ -21,6 +21,9 @@
     text-align: center;
     margin:left;
 }
+body{
+    background-color: black;
+}
 h1{
     font-family:"Ewert", serif;
 }
@@ -29,4 +32,9 @@ h2{
 }
 h3{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:brown;
+    font-size: x-large;
 }

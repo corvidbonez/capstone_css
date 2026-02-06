@@ -29,3 +29,15 @@ img{
         color: antiquewhite;
     }
 }
+
+a{
+    color: brown;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.wanted{
+    background-color: rgb(224, 229, 237);
+    text-align: center;
+    padding:20px;
+    margin-bottom: 50px;
+}
